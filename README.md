@@ -1,1 +1,1 @@
-# Hand-sign-detection using Tensorflow model zoo and object detection library
+# Hand-sign-detection using Tensorflow model zoo and Object detection library
